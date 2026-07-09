@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqM0KlR24no=",
+  "success": true,
+  "projectFilePath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.aspnetcore.mvc.webapicompatshim\\2.3.11\\microsoft.aspnetcore.mvc.webapicompatshim.2.3.11.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

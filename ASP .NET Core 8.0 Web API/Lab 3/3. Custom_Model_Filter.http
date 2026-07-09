@@ -1,0 +1,6 @@
+@_3._Custom_Model_Filter_HostAddress = http://localhost:5013
+
+GET {{_3._Custom_Model_Filter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
