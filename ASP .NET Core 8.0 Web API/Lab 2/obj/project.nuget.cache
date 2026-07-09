@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp4sCm1Lnk8=",
+  "success": true,
+  "projectFilePath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\anish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
