@@ -1,0 +1,19 @@
+div {
+    font-family: Arial;
+}
+
+h1 {
+    color: black;
+}
+
+body {
+    margin: 20px;
+}
+
+div > div {
+    padding: 15px;
+}
+
+div > div:not(:last-child) {
+    border-right: 3px solid green;
+}
